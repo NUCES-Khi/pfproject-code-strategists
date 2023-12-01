@@ -5,7 +5,7 @@
 # Project Progress Report
 
 ## Project Overview
-### The project aims to develop a simple system for managing train information and passenger details. The current implementation includes structures for train schedule, train status, train information, and passenger information. It also provides functions to check train status, check booking type, and initialize a train with random status.
+The project aims to develop a simple system for managing train information and passenger details. The current implementation includes structures for train schedule, train status, train information, and passenger information. It also provides functions to check train status, check booking type, and initialize a train with random status.
 
 ## Achievements
 o	Structures Implemented: Successfully implemented structures for train schedule, train status, train information, and passenger information.
